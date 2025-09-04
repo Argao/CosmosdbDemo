@@ -3,3 +3,17 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+.idea/
+*.iws
+*.iml
+*.ipr
+.DS_Store
+*.class
+*.log
+*.pyc
